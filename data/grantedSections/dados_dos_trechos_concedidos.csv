@@ -1,0 +1,326 @@
+concessionaria;ano_do_pnv_snv;tipo_de_rodovia;rodovia;uf;km_m_inicial;km_m_final;direcao;sentido
+AUTOPISTA FERNÃO DIAS;2007;Federal;BR-381;MG;477,200;478,199;Sul;Crescente
+AUTOPISTA FERNÃO DIAS;2007;Federal;BR-381;MG;478,199;477,200;Norte;Decrescente
+AUTOPISTA FERNÃO DIAS;2007;Federal;BR-381;MG;478,200;949,900;Sul;Crescente
+AUTOPISTA FERNÃO DIAS;2007;Federal;BR-381;MG;949,900;478,200;Norte;Decrescente
+AUTOPISTA FERNÃO DIAS;2007;Federal;BR-381;SP;0,000;90,400;Sul;Crescente
+AUTOPISTA FERNÃO DIAS;2007;Federal;BR-381;SP;90,400;0,000;Norte;Decrescente
+AUTOPISTA FERNÃO DIAS;2007;Outros;Alça 1;SP;68,150;67,500;Norte;Decrescente
+AUTOPISTA FERNÃO DIAS;2007;Outros;Contorno;MG;0,000;7,400;Sul;Crescente
+AUTOPISTA FERNÃO DIAS;2007;Outros;Contorno;MG;7,400;0,000;Norte;Decrescente
+AUTOPISTA FLUMINENSE;2019;Federal;BR-101;RJ;0,000;322,100;Sul;Crescente
+AUTOPISTA FLUMINENSE;2019;Federal;BR-101;RJ;322,100;0,000;Norte;Decrescente
+AUTOPISTA LITORAL SUL;2009;Federal;BR-101;SC;0,000;244,680;Norte;Decrescente
+AUTOPISTA LITORAL SUL;2009;Federal;BR-101;SC;0,000;244,680;Sul;Crescente
+AUTOPISTA LITORAL SUL;2009;Federal;BR-116;PR;71,100;115,200;Leste;Decrescente
+AUTOPISTA LITORAL SUL;2009;Federal;BR-116;PR;71,100;115,200;Oeste;Crescente
+AUTOPISTA LITORAL SUL;2009;Federal;BR-376;PR;614,400;682,123;Norte;Decrescente
+AUTOPISTA LITORAL SUL;2009;Federal;BR-376;PR;614,400;682,123;Sul;Crescente
+AUTOPISTA PLANALTO SUL;2017;Federal;BR-116;PR;115,000;211,800;Sul;Crescente
+AUTOPISTA PLANALTO SUL;2017;Federal;BR-116;PR;211,800;115,000;Norte;Decrescente
+AUTOPISTA PLANALTO SUL;2017;Federal;BR-116;SC;0,000;310,240;Sul;Crescente
+AUTOPISTA PLANALTO SUL;2017;Federal;BR-116;SC;310,240;0,000;Norte;Decrescente
+AUTOPISTA REGIS BITTENCOURT;2017;Federal;BR-116;SP;268,900;569,100;Sul;Crescente
+AUTOPISTA REGIS BITTENCOURT;2017;Federal;BR-116;SP;569,100;268,900;Norte;Decrescente
+AUTOPISTA REGIS BITTENCOURT;2017;Federal;BR-116;PR;0,000;71,100;Sul;Crescente
+AUTOPISTA REGIS BITTENCOURT;2017;Federal;BR-116;PR;71,100;0,000;Norte;Decrescente
+AUTOPISTA REGIS BITTENCOURT;2017;Outros;CW-116;PR;0,000;18,500;Sul;Crescente
+AUTOPISTA REGIS BITTENCOURT;2017;Outros;CW-116;PR;18,500;0,000;Norte;Decrescente
+CONCEBRA;2017;Federal;BR-153;MG;0,000;58,000;Norte;Decrescente
+CONCEBRA;2017;Federal;BR-153;MG;0,000;58,000;Sul;Crescente
+CONCEBRA;2017;Federal;BR-153;MG;58,001;59,210;Norte;Decrescente
+CONCEBRA;2017;Federal;BR-153;MG;58,001;59,210;Sul;Crescente
+CONCEBRA;2017;Federal;BR-153;MG;59,211;246,700;Norte;Decrescente
+CONCEBRA;2017;Federal;BR-153;MG;59,211;246,700;Sul;Crescente
+CONCEBRA;2017;Federal;BR-153;GO;490,000;703,900;Norte;Decrescente
+CONCEBRA;2017;Federal;BR-153;GO;490,000;703,900;Sul;Crescente
+CONCEBRA;2017;Federal;BR-262;MG;353,000;435,400;Leste;Decrescente
+CONCEBRA;2017;Federal;BR-262;MG;353,000;435,400;Oeste;Crescente
+CONCEBRA;2017;Federal;BR-262;MG;435,401;446,500;Leste;Decrescente
+CONCEBRA;2017;Federal;BR-262;MG;435,401;446,500;Oeste;Crescente
+CONCEBRA;2017;Federal;BR-262;MG;446,501;799,400;Leste;Decrescente
+CONCEBRA;2017;Federal;BR-262;MG;446,501;799,400;Oeste;Crescente
+CONCEBRA;2017;Federal;BR-262;MG;799,401;803,770;Leste;Crescente
+CONCEBRA;2017;Federal;BR-262;MG;799,401;803,770;Leste;Decrescente
+CONCEBRA;2017;Federal;BR-262;MG;803,771;913,100;Leste;Decrescente
+CONCEBRA;2017;Federal;BR-262;MG;803,771;913,100;Oeste;Crescente
+CONCEBRA;2017;Federal;BR-60;GO;0,000;139,000;Norte;Decrescente
+CONCEBRA;2017;Federal;BR-60;GO;0,000;139,000;Sul;Crescente
+CONCEBRA;2017;Federal;BR-60;DF;0,000;31,900;Norte;Decrescente
+CONCEBRA;2017;Federal;BR-60;DF;0,000;31,900;Sul;Crescente
+CONCER;2016;Federal;BR-40;MG;773,500;828,700;Sul;Crescente
+CONCER;2016;Federal;BR-40;MG;828,700;773,500;Norte;Decrescente
+CONCER;2016;Federal;BR-40;RJ;0,000;125,200;Sul;Crescente
+CONCER;2016;Federal;BR-40;RJ;125,200;0,000;Norte;Decrescente
+CRO;2016;Federal;BR-163;MT;0,000;119,900;Norte;Crescente
+CRO;2016;Federal;BR-163;MT;119,900;0,000;Sul;Decrescente
+CRO;2016;Federal;BR-163;MT;507,100;855,000;Norte;Crescente
+CRO;2016;Federal;BR-163;MT;855,000;507,100;Sul;Decrescente
+CRO;2016;Federal;BR-364;MT;201,000;211,300;Norte;Crescente
+CRO;2016;Federal;BR-364;MT;211,300;201,000;Sul;Decrescente
+CRO;2016;Federal;BR-364;MT;402,400;211,301;Sul;Decrescente
+CRO;2016;Federal;BR-364;MT;434,600;542,840;Norte;Crescente
+CRO;2016;Federal;BR-364;MT;542,840;434,600;Sul;Decrescente
+CRO;2016;Federal;BR-364;MT;542,841;588,200;Norte;Crescente
+CRO;2016;Federal;BR-364;MT;588,200;542,841;Sul;Decrescente
+CRO;2016;Federal;BR-70;MT;495,900;524,000;Norte;Crescente
+CRO;2016;Federal;BR-70;MT;524,000;495,900;Sul;Decrescente
+ECO050;2017;Federal;BR-50;MG;0,000;65,700;Norte;Decrescente
+ECO050;2017;Federal;BR-50;MG;0,000;65,700;Sul;Crescente
+ECO050;2017;Federal;BR-50;MG;77,000;77,299;Norte;Decrescente
+ECO050;2017;Federal;BR-50;MG;77,000;77,299;Sul;Crescente
+ECO050;2017;Federal;BR-50;MG;77,300;207,300;Norte;Decrescente
+ECO050;2017;Federal;BR-50;MG;77,300;207,300;Sul;Crescente
+ECO050;2017;Federal;BR-50;GO;95,700;314,200;Norte;Decrescente
+ECO050;2017;Federal;BR-50;GO;95,700;314,200;Sul;Crescente
+ECO050;2017;Outros;Contorno de Uberlândia;MG;0,000;22,400;Norte;Decrescente
+ECO050;2017;Outros;Contorno de Uberlândia;MG;0,000;22,400;Sul;Crescente
+ECO101;2020;Federal;BR-101;BA;939,200;956,900;Norte;Decrescente
+ECO101;2020;Federal;BR-101;BA;939,200;956,900;Sul;Crescente
+ECO101;2020;Federal;BR-101;ES;0,000;260,200;Norte;Decrescente
+ECO101;2020;Federal;BR-101;ES;0,000;260,200;Sul;Crescente
+ECO101;2020;Federal;BR-101;ES;260,201;261,723;Norte;Decrescente
+ECO101;2020;Federal;BR-101;ES;260,201;261,723;Sul;Crescente
+ECO101;2020;Federal;BR-101;ES;261,724;271,300;Norte;Decrescente
+ECO101;2020;Federal;BR-101;ES;261,724;271,300;Sul;Crescente
+ECO101;2020;Federal;BR-101;ES;271,301;291,600;Norte;Decrescente
+ECO101;2020;Federal;BR-101;ES;271,301;291,600;Sul;Crescente
+ECO101;2020;Federal;BR-101;ES;291,601;374,399;Norte;Decrescente
+ECO101;2020;Federal;BR-101;ES;291,601;374,399;Sul;Crescente
+ECO101;2020;Federal;BR-101;ES;379,301;461,090;Norte;Decrescente
+ECO101;2020;Federal;BR-101;ES;379,301;461,090;Sul;Crescente
+ECO101;2020;Outros;Contorno de Iconha;ES;0,000;7,243;Norte;Decrescente
+ECO101;2020;Outros;Contorno de Iconha;ES;0,000;7,243;Sul;Crescente
+ECOPONTE;2017;Federal;BR-101;RJ;322,067;333,623;Sul;Crescente
+ECOPONTE;2017;Federal;BR-101;RJ;333,623;322,067;Norte;Decrescente
+ECOPONTE;2017;Outros;Acesso N 01;RJ;0,000;0,810;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 02;RJ;0,000;0,967;Norte;Crescente
+ECOPONTE;2017;Outros;Acesso N 03;RJ;321,600;322,067;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 04;RJ;0,000;0,449;Norte;Crescente
+ECOPONTE;2017;Outros;Acesso N 05;RJ;0,000;0,420;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 06;RJ;0,000;0,726;Norte;Decrescente
+ECOPONTE;2017;Outros;Acesso N 07;RJ;0,000;0,837;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 08;RJ;0,000;0,815;Norte;Crescente
+ECOPONTE;2017;Outros;Acesso N 09;RJ;0,000;0,704;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 10;RJ;0,000;0,377;Norte;Crescente
+ECOPONTE;2017;Outros;Acesso N 11;RJ;0,000;0,460;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 11 A;RJ;0,000;0,151;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 12;RJ;0,000;0,308;Norte;Crescente
+ECOPONTE;2017;Outros;Acesso N 12 A;RJ;0,000;0,229;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 13;RJ;0,000;0,420;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 14;RJ;0,000;0,221;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 15;RJ;0,000;0,090;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 15 A;RJ;0,000;0,113;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 15 B;RJ;0,000;0,009;Norte;Crescente
+ECOPONTE;2017;Outros;Acesso N 16;RJ;0,000;0,317;Norte;Crescente
+ECOPONTE;2017;Outros;Acesso N 17;RJ;0,000;0,099;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 18;RJ;0,000;0,063;Norte;Crescente
+ECOPONTE;2017;Outros;Acesso N 18 A;RJ;0,000;0,043;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso N 19;RJ;0,000;0,212;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso R 1;RJ;0,000;0,669;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso R 1 A;RJ;0,000;1,020;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso R 2;RJ;333,624;334,386;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso R 2 A;RJ;333,624;333,939;Norte;Decrescente
+ECOPONTE;2017;Outros;Acesso R 4;RJ;0,000;0,827;Norte;Crescente
+ECOPONTE;2017;Outros;Acesso R 4 A;RJ;0,000;0,560;Norte;Crescente
+ECOPONTE;2017;Outros;Acesso R3;RJ;0,000;2,500;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso R5A;RJ;0,000;2,588;Sul;Crescente
+ECOPONTE;2017;Outros;Acesso R5B;RJ;0,000;2,236;Norte;Decrescente
+ECORIOMINAS;2021;Federal;BR-116;MG;408,500;587,574;Norte;Decrescente
+ECORIOMINAS;2021;Federal;BR-116;MG;408,500;587,574;Sul;Crescente
+ECORIOMINAS;2021;Federal;BR-116;MG;588,700;816,200;Norte;Decrescente
+ECORIOMINAS;2021;Federal;BR-116;MG;588,700;816,200;Sul;Crescente
+ECORIOMINAS;2021;Federal;BR-116;RJ;2,100;148,650;Norte;Decrescente
+ECORIOMINAS;2021;Federal;BR-116;RJ;2,100;148,650;Sul;Crescente
+ECORIOMINAS;2021;Federal;BR-116;RJ;169,100;214,800;Leste;Decrescente
+ECORIOMINAS;2021;Federal;BR-116;RJ;169,100;214,800;Oeste;Crescente
+ECORIOMINAS;2021;Federal;BR-465;RJ;0,000;23,200;Leste;Crescente
+ECORIOMINAS;2021;Federal;BR-465;RJ;0,000;23,200;Oeste;Decrescente
+ECORIOMINAS;2021;Federal;BR-493;RJ;0,000;25,400;Leste;Decrescente
+ECORIOMINAS;2021;Federal;BR-493;RJ;0,000;25,400;Oeste;Crescente
+ECORIOMINAS;2021;Federal;BR-493;RJ;48,100;122,700;Leste;Decrescente
+ECORIOMINAS;2021;Federal;BR-493;RJ;48,100;122,700;Oeste;Crescente
+ECOSUL;1996;Federal;BR-116;RS;400,500;661,000;Sul;Crescente
+ECOSUL;1996;Federal;BR-116;RS;661,000;400,500;Norte;Decrescente
+ECOSUL;1996;Federal;BR-392;RS;0,000;68,400;Norte;Crescente
+ECOSUL;1996;Federal;BR-392;RS;68,400;0,000;Sul;Decrescente
+ECOSUL;1996;Federal;BR-392;RS;71,300;199,700;Norte;Crescente
+ECOSUL;1996;Federal;BR-392;RS;199,700;71,300;Sul;Decrescente
+ECOVIAS DO ARAGUAIA;2021;Federal;BR-153;TO;622,700;801,870;Norte;Decrescente
+ECOVIAS DO ARAGUAIA;2021;Federal;BR-153;TO;622,700;801,870;Sul;Crescente
+ECOVIAS DO ARAGUAIA;2021;Federal;BR-153;GO;0,000;442,900;Norte;Decrescente
+ECOVIAS DO ARAGUAIA;2021;Federal;BR-153;GO;0,000;442,900;Sul;Crescente
+ECOVIAS DO ARAGUAIA;2021;Federal;BR-414;GO;300,000;442,920;Norte;Decrescente
+ECOVIAS DO ARAGUAIA;2021;Federal;BR-414;GO;300,000;442,920;Sul;Crescente
+ECOVIAS DO ARAGUAIA;2021;Federal;BR-80;GO;94,300;181,050;Norte;Crescente
+ECOVIAS DO ARAGUAIA;2021;Federal;BR-80;GO;94,300;181,050;Sul;Decrescente
+ECOVIAS DO CERRADO;2020;Federal;BR-364;GO;0,000;192,200;Leste;Decrescente
+ECOVIAS DO CERRADO;2020;Federal;BR-364;GO;0,000;192,200;Oeste;Crescente
+ECOVIAS DO CERRADO;2020;Federal;BR-365;MG;626,000;870,110;Leste;Decrescente
+ECOVIAS DO CERRADO;2020;Federal;BR-365;MG;626,000;870,110;Oeste;Crescente
+LITORAL PIONEIRO;2019;Estadual;092;PR;199,500;324,200;Norte;Crescente
+LITORAL PIONEIRO;2019;Estadual;092;PR;199,500;324,200;Sul;Decrescente
+LITORAL PIONEIRO;2019;Estadual;151;PR;176,400;225,000;Norte;Decrescente
+LITORAL PIONEIRO;2019;Estadual;151;PR;176,490;225,000;Sul;Crescente
+LITORAL PIONEIRO;2019;Estadual;151;PR;225,001;319,710;Norte;Decrescente
+LITORAL PIONEIRO;2019;Estadual;151;PR;225,001;319,710;Sul;Crescente
+LITORAL PIONEIRO;2019;Estadual;239;PR;0,000;12,590;Leste;Decrescente
+LITORAL PIONEIRO;2019;Estadual;239;PR;0,000;12,590;Oeste;Crescente
+LITORAL PIONEIRO;2019;Estadual;407;PR;0,000;18,850;Norte;Decrescente
+LITORAL PIONEIRO;2019;Estadual;407;PR;0,000;18,850;Sul;Crescente
+LITORAL PIONEIRO;2019;Estadual;408;PR;0,000;9,700;Leste;Decrescente
+LITORAL PIONEIRO;2019;Estadual;408;PR;0,000;9,700;Oeste;Crescente
+LITORAL PIONEIRO;2019;Estadual;408;PR;11,240;22,990;Norte;Decrescente
+LITORAL PIONEIRO;2019;Estadual;408;PR;11,240;22,990;Sul;Crescente
+LITORAL PIONEIRO;2019;Estadual;411;PR;1,070;14,110;Norte;Crescente
+LITORAL PIONEIRO;2019;Estadual;411;PR;1,070;14,110;Sul;Decrescente
+LITORAL PIONEIRO;2019;Estadual;508;PR;0,000;31,210;Norte;Decrescente
+LITORAL PIONEIRO;2019;Estadual;508;PR;0,000;31,210;Sul;Crescente
+LITORAL PIONEIRO;2019;Estadual;804;PR;0,000;2,710;Norte;Crescente
+LITORAL PIONEIRO;2019;Estadual;804;PR;0,000;2,710;Sul;Decrescente
+LITORAL PIONEIRO;2019;Estadual;855;PR;0,000;8,060;Leste;Decrescente
+LITORAL PIONEIRO;2019;Estadual;855;PR;0,000;8,060;Oeste;Crescente
+LITORAL PIONEIRO;2019;Federal;BR-153;PR;0,000;52,500;Norte;Decrescente
+LITORAL PIONEIRO;2019;Federal;BR-153;PR;0,000;52,500;Sul;Crescente
+LITORAL PIONEIRO;2019;Federal;BR-277;PR;0,000;83,910;Leste;Decrescente
+LITORAL PIONEIRO;2019;Federal;BR-277;PR;0,000;83,910;Oeste;Crescente
+LITORAL PIONEIRO;2019;Federal;BR-369;PR;1,000;51,800;Leste;Crescente
+LITORAL PIONEIRO;2019;Federal;BR-369;PR;1,000;51,800;Oeste;Decrescente
+LITORAL PIONEIRO;2019;Federal;BR-369;PR;60,900;88,200;Leste;Crescente
+LITORAL PIONEIRO;2019;Federal;BR-369;PR;60,900;88,200;Oeste;Decrescente
+LITORAL PIONEIRO;2019;Outros;Acesso BR-277 1;PR;0,000;2,900;Leste;Decrescente
+LITORAL PIONEIRO;2019;Outros;Acesso BR-277 1;PR;0,000;2,900;Oeste;Crescente
+LITORAL PIONEIRO;2019;Outros;Acesso BR-277 2;PR;0,000;8,100;Leste;Crescente
+LITORAL PIONEIRO;2019;Outros;Acesso BR-277 2;PR;0,000;8,100;Oeste;Decrescente
+LITORAL PIONEIRO;2019;Outros;Acesso para SP-278;PR;0,000;1,654;Leste;Crescente
+LITORAL PIONEIRO;2019;Outros;Acesso para SP-278;PR;0,000;1,654;Oeste;Decrescente
+LITORAL PIONEIRO;2019;Outros;Saída para BR-153;PR;0,000;1,698;Leste;Crescente
+LITORAL PIONEIRO;2019;Outros;Saída para BR-153;PR;0,000;1,698;Oeste;Decrescente
+MSVIA;2014;Federal;BR-163;MS;0,000;845,340;Norte;Crescente
+MSVIA;2014;Federal;BR-163;MS;0,000;845,340;Sul;Decrescente
+MSVIA;2014;Federal;BR-163;MS;845,341;846,000;Norte;Crescente
+MSVIA;2014;Federal;BR-163;MS;845,341;846,000;Sul;Decrescente
+RIOSP;2000;Federal;BR-101;RJ;380,800;598,600;Sul;Crescente
+RIOSP;2000;Federal;BR-101;RJ;598,600;380,800;Norte;Decrescente
+RIOSP;2000;Federal;BR-101;SP;0,000;52,590;Sul;Crescente
+RIOSP;2000;Federal;BR-101;SP;52,590;0,000;Norte;Decrescente
+RIOSP;2000;Federal;BR-116;RJ;169,000;339,482;Sul;Crescente
+RIOSP;2000;Federal;BR-116;RJ;339,482;169,000;Norte;Decrescente
+RIOSP;2000;Federal;BR-116;SP;0,000;231,408;Sul;Crescente
+RIOSP;2000;Federal;BR-116;SP;231,408;0,000;Norte;Decrescente
+RIOSP;2000;Outros;Acesso km 145,4;SP;145,280;145,470;Sul;Crescente
+RIOSP;2000;Outros;Acesso km 166,3;RJ;172,113;172,269;Sul;Crescente
+RIOSP;2000;Outros;Acesso km 174;RJ;180,278;180,681;Sul;Crescente
+RIOSP;2000;Outros;Acesso km 174 (Amoedo);RJ;180,743;180,195;Norte;Decrescente
+RIOSP;2000;Outros;Acesso km 178;RJ;183,805;184,012;Sul;Crescente
+RIOSP;2000;Outros;Acesso km 178,5 (Ayrton Senna);SP;178,292;178,999;Norte;Decrescente
+RIOSP;2000;Outros;Acesso km 190,3;RJ;196,117;196,272;Norte;Decrescente
+RIOSP;2000;Outros;Acesso km 205,6;RJ;211,784;211,424;Norte;Decrescente
+RIOSP;2000;Outros;Acesso km 208,5;RJ;214,315;214,799;Norte;Decrescente
+RIOSP;2000;Outros;Acesso km 209,1;RJ;214,902;215,138;Sul;Crescente
+RIOSP;2000;Outros;Acesso km 219,2 (Aeroporto);SP;219,012;219,511;Sul;Crescente
+RIOSP;2000;Outros;Acesso km 225,8 (shopping);SP;225,551;225,651;Sul;Crescente
+RIOSP;2000;Outros;Acesso km 225,8 (UNG);SP;225,381;225,621;Norte;Decrescente
+RIOSP;2000;Outros;Acesso km 296,1;RJ;302,045;302,657;Sul;Crescente
+RIOSP;2000;Outros;Acesso km 71;SP;71,000;71,340;Sul;Crescente
+RIOSP;2000;Outros;Acesso km 99,1;SP;99,100;99,250;Sul;Crescente
+RIOSP;2000;Outros;Acesso Marg. Km 178 (local);RJ;183,633;183,929;Norte;Decrescente
+RIOSP;2000;Outros;Acesso Marg. Km 178 (princ.);RJ;183,633;183,805;Norte;Decrescente
+RIOSP;2000;Outros;Faixa de Ônibus km 227,7;SP;227,434;227,857;Sul;Crescente
+RIOSP;2000;Outros;Faixa ônibus km 150,5;SP;150,340;150,650;Norte;Decrescente
+RIOSP;2000;Outros;Saída 2 km 166,0;RJ;171,803;171,789;Norte;Decrescente
+RIOSP;2000;Outros;Saída km 149,6;SP;149,200;149,600;Norte;Decrescente
+RIOSP;2000;Outros;Saída km 149,6;SP;149,600;149,800;Sul;Crescente
+RIOSP;2000;Outros;Saída km 150,5;SP;150,300;150,600;Sul;Crescente
+RIOSP;2000;Outros;Saída km 166,0;RJ;171,906;171,738;Norte;Decrescente
+RIOSP;2000;Outros;Saída km 178;RJ;183,601;183,805;Sul;Crescente
+RIOSP;2000;Outros;Saída km 178,5 (Ayrton Senna);SP;178,192;178,442;Sul;Crescente
+RIOSP;2000;Outros;Saída km 190,3;RJ;195,808;196,200;Sul;Crescente
+RIOSP;2000;Outros;Saída km 190,3;RJ;195,911;196,169;Norte;Decrescente
+RIOSP;2000;Outros;Saída km 205,6;RJ;211,321;211,424;Sul;Crescente
+RIOSP;2000;Outros;Saída km 210,8;SP;210,353;211,177;Norte;Decrescente
+RIOSP;2000;Outros;Saída km 217,8;SP;217,363;217,662;Sul;Crescente
+RIOSP;2000;Outros;Saída km 227,7 (Fernão Dias);SP;227,404;228,007;Norte;Decrescente
+RIOSP;2000;Outros;Saída km 258,2;RJ;263,740;264,189;Sul;Crescente
+RIOSP;2000;Outros;Saída km 265,7 (Barra Mansa);RJ;271,359;271,727;Norte;Decrescente
+RIOSP;2000;Outros;Saída km 296,1;RJ;301,814;302,045;Sul;Crescente
+RIOSP;2000;Outros;Saída km 71;SP;69,893;71,000;Norte;Decrescente
+RIOSP;2000;Outros;Saída km 99,1;SP;98,940;99,420;Norte;Decrescente
+RIOSP;2000;Outros;Saída posto km 168,4;SP;168,200;168,460;Sul;Crescente
+RODOVIA DO AÇO;2016;Federal;BR-393;RJ;101,900;166,600;Sul;Crescente
+RODOVIA DO AÇO;2016;Federal;BR-393;RJ;166,600;101,900;Norte;Decrescente
+RODOVIA DO AÇO;2016;Federal;BR-393;RJ;167,399;166,601;Norte;Decrescente
+RODOVIA DO AÇO;2016;Federal;BR-393;RJ;167,400;286,400;Sul;Crescente
+RODOVIA DO AÇO;2016;Federal;BR-393;RJ;286,400;167,400;Norte;Decrescente
+RODOVIA DO AÇO;2016;Outros;Alça de Entrada da BR-040;RJ;166,099;166,199;Sul;Crescente
+RODOVIA DO AÇO;2016;Outros;Alça de Saída da BR-040;RJ;166,199;166,099;Norte;Decrescente
+TRANSBRASILIANA;2015;Federal;BR-153;SP;0,000;75,100;Sul;Crescente
+TRANSBRASILIANA;2015;Federal;BR-153;SP;75,100;0,000;Norte;Decrescente
+TRANSBRASILIANA;2015;Federal;BR-153;SP;75,101;76,200;Sul;Crescente
+TRANSBRASILIANA;2015;Federal;BR-153;SP;76,200;75,101;Norte;Decrescente
+TRANSBRASILIANA;2015;Federal;BR-153;SP;76,201;230,200;Sul;Crescente
+TRANSBRASILIANA;2015;Federal;BR-153;SP;230,200;76,201;Norte;Decrescente
+TRANSBRASILIANA;2015;Federal;BR-153;SP;255,000;347,700;Sul;Crescente
+TRANSBRASILIANA;2015;Federal;BR-153;SP;347,700;255,000;Norte;Decrescente
+TRANSBRASILIANA;2015;Outros;Variante;SP;336,000;338,100;Sul;Crescente
+TRANSBRASILIANA;2015;Outros;Variante;SP;338,100;336,000;Norte;Decrescente
+VIA 040;2010;Federal;BR-40;MG;0,000;773,500;Sul;Crescente
+VIA 040;2010;Federal;BR-40;MG;773,500;0,000;Norte;Decrescente
+VIA 040;2010;Federal;BR-40;GO;0,000;157,300;Sul;Crescente
+VIA 040;2010;Federal;BR-40;GO;157,300;0,000;Norte;Decrescente
+VIA 040;2010;Federal;BR-40;DF;0,000;8,400;Sul;Crescente
+VIA 040;2010;Federal;BR-40;DF;8,400;0,000;Norte;Decrescente
+VIA ARAUCÁRIA;2019;Estadual;418;PR;0,000;21,860;Nordeste;Crescente
+VIA ARAUCÁRIA;2019;Estadual;418;PR;0,000;21,860;Sudoeste;Decrescente
+VIA ARAUCÁRIA;2019;Estadual;423;PR;9,400;37,330;Noroeste;Crescente
+VIA ARAUCÁRIA;2019;Estadual;423;PR;9,400;37,330;Sudeste;Decrescente
+VIA ARAUCÁRIA;2019;Estadual;427;PR;32,670;73,890;Norte;Crescente
+VIA ARAUCÁRIA;2019;Estadual;427;PR;32,670;73,890;Sul;Decrescente
+VIA ARAUCÁRIA;2019;Federal;BR-277;PR;93,989;297,868;Leste;Decrescente
+VIA ARAUCÁRIA;2019;Federal;BR-277;PR;93,989;297,868;Oeste;Crescente
+VIA ARAUCÁRIA;2019;Federal;BR-373;PR;183,695;284,132;Nordeste;Decrescente
+VIA ARAUCÁRIA;2019;Federal;BR-373;PR;183,695;284,132;Sudoeste;Crescente
+VIA ARAUCÁRIA;2019;Federal;BR-376;PR;587,767;602,400;Noroeste;Decrescente
+VIA ARAUCÁRIA;2019;Federal;BR-376;PR;587,767;602,400;Sudeste;Crescente
+VIA ARAUCÁRIA;2019;Federal;BR-476;PR;143,700;197,700;Nordeste;Decrescente
+VIA ARAUCÁRIA;2019;Federal;BR-476;PR;143,700;197,700;Sudoeste;Crescente
+VIA BAHIA;2003;Estadual;526;BA;0,000;9,300;Norte;Crescente
+VIA BAHIA;2003;Estadual;526;BA;0,000;9,300;Sul;Decrescente
+VIA BAHIA;2003;Estadual;528;BA;0,000;4,300;Norte;Crescente
+VIA BAHIA;2003;Estadual;528;BA;0,000;4,300;Sul;Decrescente
+VIA BAHIA;2003;Federal;BR-116;BA;425,800;930,600;Norte;Decrescente
+VIA BAHIA;2003;Federal;BR-116;BA;425,800;930,600;Sul;Crescente
+VIA BAHIA;2003;Federal;BR-116;BA;930,601;936,800;Norte;Decrescente
+VIA BAHIA;2003;Federal;BR-116;BA;930,601;936,800;Sul;Crescente
+VIA BAHIA;2003;Federal;BR-324;BA;517,880;626,200;Leste;Crescente
+VIA BAHIA;2003;Federal;BR-324;BA;517,880;626,200;Oeste;Decrescente
+VIA BAHIA;2003;Outros;CONTORNO - VC;BA;0,000;29,956;Norte;Decrescente
+VIA BAHIA;2003;Outros;CONTORNO - VC;BA;0,000;29,956;Sul;Crescente
+VIA BAHIA;2003;Outros;CONTORNO NORTE  - FS - 324;BA;512,600;519,500;Norte;Decrescente
+VIA BAHIA;2003;Outros;CONTORNO NORTE  - FS - 324;BA;512,600;519,500;Sul;Crescente
+VIA BAHIA;2003;Outros;CONTORNO NORTE - FS - 116;BA;422,000;426,200;Norte;Decrescente
+VIA BAHIA;2003;Outros;CONTORNO NORTE - FS - 116;BA;422,000;426,200;Sul;Crescente
+VIA BAHIA;2003;Outros;CONTORNO SUL  - FS;BA;0,000;7,000;Norte;Decrescente
+VIA BAHIA;2003;Outros;CONTORNO SUL  - FS;BA;0,000;7,000;Sul;Crescente
+VIA BAHIA;2003;Outros;CONTORNO SUL - FS1;BA;7,001;7,900;Norte;Decrescente
+VIA BAHIA;2003;Outros;CONTORNO SUL - FS1;BA;7,001;7,900;Sul;Crescente
+VIA BAHIA;2003;Outros;TRECHO URBANO FS;BA;0,000;6,400;Leste;Crescente
+VIA BAHIA;2003;Outros;TRECHO URBANO FS;BA;0,000;6,400;Oeste;Decrescente
+VIA BRASIL;2021;Federal;BR-163;PA;0,000;674,400;Norte;Crescente
+VIA BRASIL;2021;Federal;BR-163;PA;674,400;0,000;Sul;Decrescente
+VIA BRASIL;2021;Federal;BR-163;MT;854,200;1115,000;Norte;Crescente
+VIA BRASIL;2021;Federal;BR-163;MT;1115,000;854,200;Sul;Decrescente
+VIA BRASIL;2021;Federal;BR-230;PA;1096,000;1129,000;Oeste;Crescente
+VIA BRASIL;2021;Federal;BR-230;PA;1129,000;1096,000;Leste;Decrescente
+VIA COSTEIRA;2020;Federal;BR-101;SC;245,000;464,285;Sul;Crescente
+VIA COSTEIRA;2020;Federal;BR-101;SC;464,285;245,000;Norte;Decrescente
+VIA MINEIRA;2012;Federal;BR-40;MG;544,000;776,100;Sul;Crescente
+VIA MINEIRA;2012;Federal;BR-40;MG;776,100;544,000;Norte;Decrescente
+VIA SUL;2019;Federal;BR-101;RS;0,000;88,500;Sul;Crescente
+VIA SUL;2019;Federal;BR-101;RS;88,420;0,000;Norte;Decrescente
+VIA SUL;2019;Federal;BR-290;RS;0,000;98,100;Oeste;Crescente
+VIA SUL;2019;Federal;BR-290;RS;98,100;0,000;Leste;Decrescente
+VIA SUL;2019;Federal;BR-386;RS;179,960;446,000;Sul;Crescente
+VIA SUL;2019;Federal;BR-386;RS;446,000;179,960;Norte;Decrescente
+VIA SUL;2019;Federal;BR-448;RS;0,500;22,100;Sul;Crescente
+VIA SUL;2019;Federal;BR-448;RS;22,100;0,500;Norte;Decrescente
