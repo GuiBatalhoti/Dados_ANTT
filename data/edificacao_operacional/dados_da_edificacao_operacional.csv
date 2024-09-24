@@ -1,0 +1,320 @@
+concessionaria;tipo_de_edificacao;ano_do_pnv_snv;rodovia;uf;km_m;municipio;tipo_pista;sentido;situacao;latitude;longitude
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;MG;498,495;Betim;Principal;Crescente/Decrescente;Ativo;-19,994592;-44,208112
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;MG;530,040;Rio Manso;Principal;Crescente;Ativo;-20,161796;-44,348804
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;MG;574,561;Itaguara;Principal;Crescente;Ativo;-20,444279;-44,565246
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;MG;616,967;Oliveira;Principal;Decrescente;Ativo;-20,729401;-44,772554
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;MG;650,184;Santo Antônio do Amparo;Principal;Decrescente;Ativo;-20,955565;-44,913237
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;MG;698,020;Lavras;Principal;Decrescente;Ativo;-21,266335;-45,137419
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;MG;752,000;Três Corações;Principal;Crescente;Ativo;-21,654901;-45,301640
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;MG;804,196;São Gonçalo do Sapucaí;Principal;Crescente/Decrescente;Ativo;-21,962789;-45,627252
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;MG;871,357;Pouso Alegre;Principal;Crescente/Decrescente;Ativo;-22,399635;-45,961312
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;MG;918,713;Camanducaia;Principal;Crescente;Ativo;-22,754381;-46,148678
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;SP;22,343;Bragança Paulista;Principal;Decrescente;Ativo;-22,996035;-46,514333
+AUTOPISTA FERNÃO DIAS;Base operacional;2007;BR-381;SP;71,861;São Paulo;Principal;Crescente/Decrescente;Ativo;-23,359274;-46,550167
+AUTOPISTA FERNÃO DIAS;Posto de Fiscalização da ANTT;2007;BR-381;MG;851,077;Pouso Alegre;Principal;Crescente;Ativo;-22,247165;-45,885402
+AUTOPISTA FLUMINENSE;Base operacional;2019;BR-101;RJ;40,560;Campos dos Goytacazes;Principal;Decrescente;Ativo;-21,552853;-41,331178
+AUTOPISTA FLUMINENSE;Base operacional;2019;BR-101;RJ;123,000;Campos dos Goytacazes;Principal;Crescente;Ativo;-22,049361;-41,685611
+AUTOPISTA FLUMINENSE;Base operacional;2019;BR-101;RJ;162,300;Macaé;Principal;Decrescente;Ativo;-22,304411;-41,884535
+AUTOPISTA FLUMINENSE;Posto de Fiscalização da ANTT;2019;BR-101;RJ;192,950;Casimiro de Abreu;Principal;Decrescente;Ativo;-22,476542;-42,088961
+AUTOPISTA FLUMINENSE;Base operacional;2019;BR-101;RJ;235,970;Silva Jardim;Principal;Crescente;Ativo;-22,610024;-42,404409
+AUTOPISTA FLUMINENSE;Base operacional;2019;BR-101;RJ;283,300;Itaboraí;Principal;Decrescente;Ativo;-22,738898;-42,806988
+AUTOPISTA FLUMINENSE;Base operacional;2019;BR-101;RJ;299,570;São Gonçalo;Principal;Crescente;Ativo;-22,774528;-42,944889
+AUTOPISTA FLUMINENSE;Base operacional;2019;BR-101;RJ;318,340;São Gonçalo;Principal;Decrescente;Ativo;-22,846887;-43,099038
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-101;SC;0,000;Garuva;Principal;Crescente/Decrescente;Ativo;-26,262763;-48,850520
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-101;SC;1,350;Garuva;Principal;Crescente;Ativo;-25,991494;-48,882368
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-101;SC;46,800;Joinville;Principal;Decrescente;Ativo;-26,365274;-48,858387
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-101;SC;79,300;Araquari;Principal;Crescente;Ativo;-26,591211;-48,722545
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-101;SC;129,850;Balneário Camboriú;Principal;Decrescente;Ativo;-26,983308;-48,670968
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-101;SC;141,000;Balneário Camboriú;Principal;Decrescente;Ativo;-27,047217;-48,598246
+AUTOPISTA LITORAL SUL;Posto de Fiscalização da ANTT;2009;BR-101;SC;151,210;Itapema;Principal;Crescente;Ativo;-27,128378;-48,610033
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-101;SC;157,400;Porto Belo;Principal;Crescente;Ativo;-27,184070;-48,612561
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-101;SC;192,400;Biguaçu;Marginal;Decrescente;Ativo;-27,487608;-48,649917
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-101;SC;205,350;São José;Principal;Crescente;Ativo;-27,585865;-48,616681
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-101;SC;243,050;Palhoça;Principal;Decrescente;Ativo;-27,885331;-48,647046
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-116;PR;90,200;Piraquara;Principal;Crescente;Ativo;-25,492290;-49,113555
+AUTOPISTA LITORAL SUL;Posto de Fiscalização da ANTT;2009;BR-116;PR;90,300;Piraquara;Principal;Crescente;Ativo;-25,492706;-49,114525
+AUTOPISTA LITORAL SUL;Base operacional;2009;BR-376;PR;635,100;São José dos Pinhais;Principal;Decrescente;Ativo;-25,749696;-49,127868
+AUTOPISTA PLANALTO SUL;Base operacional;2017;BR-116;PR;134,400;Fazenda Rio Grande;Principal;Crescente;Ativo;-25,713110;-49,318340
+AUTOPISTA PLANALTO SUL;Base operacional;2017;BR-116;PR;204,100;Rio Negro;Principal;Crescente;Ativo;-26,071450;-49,741300
+AUTOPISTA PLANALTO SUL;Base operacional;2017;BR-116;SC;42,200;Itaiópolis;Principal;Crescente;Ativo;-26,337590;-50,073400
+AUTOPISTA PLANALTO SUL;Base operacional;2017;BR-116;SC;81,600;Monte Castelo;Principal;Crescente;Ativo;-26,570390;-50,221540
+AUTOPISTA PLANALTO SUL;Base operacional;2017;BR-116;SC;120,700;Santa Cecília;Principal;Crescente;Ativo;-26,828860;-50,381340
+AUTOPISTA PLANALTO SUL;Base operacional;2017;BR-116;SC;152,000;Santa Cecília;Principal;Crescente;Ativo;-27,046400;-50,425910
+AUTOPISTA PLANALTO SUL;Base operacional;2017;BR-116;SC;194,900;Ponte Alta;Principal;Decrescente;Ativo;-27,386340;-50,428980
+AUTOPISTA PLANALTO SUL;Base operacional;2017;BR-116;SC;233,160;Correia Pinto;Principal;Crescente;Ativo;-27,698460;-50,335430
+AUTOPISTA PLANALTO SUL;Base operacional;2017;BR-116;SC;276,900;Capão Alto;Principal;Decrescente;Ativo;-28,014550;-50,550150
+AUTOPISTA REGIS BITTENCOURT;Base operacional;2017;BR-116;SP;287,000;Itapecerica da Serra;Principal;Crescente;Ativo;-23,700335;-46,868481
+AUTOPISTA REGIS BITTENCOURT;Base operacional;2017;BR-116;SP;298,600;Itapecerica da Serra;Principal;Crescente;Ativo;-23,786720;-46,913015
+AUTOPISTA REGIS BITTENCOURT;Base operacional;2017;BR-116;SP;343,260;Miracatu;Principal;Decrescente;Ativo;-24,026787;-47,173740
+AUTOPISTA REGIS BITTENCOURT;Base operacional;2017;BR-116;SP;356,500;Miracatu;Principal;Crescente;Ativo;-24,095445;-47,256375
+AUTOPISTA REGIS BITTENCOURT;Base operacional;2017;BR-116;SP;370,820;Miracatu;Principal;Decrescente;Ativo;-24,158599;-47,326519
+AUTOPISTA REGIS BITTENCOURT;Base operacional;2017;BR-116;SP;426,800;Juquiá;Principal;Crescente;Ativo;-24,388672;-47,722017
+AUTOPISTA REGIS BITTENCOURT;Posto de Fiscalização da ANTT;2017;BR-116;SP;446,080;Registro;Marginal;Crescente;Ativo;-24,505102;-47,848017
+AUTOPISTA REGIS BITTENCOURT;Base operacional;2017;BR-116;SP;485,840;Cajati;Principal;Decrescente;Ativo;-24,722292;-48,083446
+AUTOPISTA REGIS BITTENCOURT;Base operacional;2017;BR-116;SP;543,060;Barra do Turvo;Principal;Crescente;Ativo;-24,963133;-48,412025
+AUTOPISTA REGIS BITTENCOURT;Base operacional;2017;BR-116;PR;56,840;Campina Grande do Sul;Principal;Crescente;Ativo;-25,288807;-48,933028
+AUTOPISTA REGIS BITTENCOURT;Base operacional;2017;BR-116;PR;70,000;Campina Grande do Sul;Principal;Crescente;Ativo;-25,336830;-49,036279
+CONCEBRA;Base operacional;2017;BR-60;DF;22,819;Brasília;Principal;Decrescente;Ativo;-15,987901;-48,222301
+CONCEBRA;Base operacional;2017;BR-60;GO;44,356;Alexânia;Principal;Crescente;Ativo;-16,125901;-48,594201
+CONCEBRA;Base operacional;2017;BR-60;GO;89,681;Anápolis;Principal;Decrescente;Ativo;-16,343201;-48,902201
+CONCEBRA;Base operacional;2017;BR-60;GO;138,131;Goiânia;Principal;Decrescente;Ativo;-16,614001;-49,205601
+CONCEBRA;Base operacional;2017;BR-153;GO;531,243;Hidrolândia;Marginal;Crescente;Ativo;-16,968701;-49,233001
+CONCEBRA;Base operacional;2017;BR-153;GO;584,365;Professor Jamil;Principal;Decrescente;Ativo;-17,410401;-49,224901
+CONCEBRA;Base operacional;2017;BR-153;GO;636,899;Morrinhos;Principal;Crescente;Ativo;-17,844501;-49,219101
+CONCEBRA;Base operacional;2017;BR-153;GO;688,578;Itumbiara;Principal;Crescente/Decrescente;Ativo;-18,288701;-49,239401
+CONCEBRA;Base operacional;2017;BR-153;MG;33,936;Centralina;Principal;Crescente;Ativo;-18,709501;-49,138901
+CONCEBRA;Base operacional;2017;BR-153;MG;80,975;Prata;Principal;Decrescente;Ativo;-19,074701;-49,001101
+CONCEBRA;Base operacional;2017;BR-153;MG;131,708;Prata;Principal;Crescente;Ativo;-19,496301;-48,853901
+CONCEBRA;Base operacional;2017;BR-153;MG;175,382;Comendador Gomes;Principal;Decrescente;Ativo;-19,756601;-48,967601
+CONCEBRA;Base operacional;2017;BR-153;MG;223,316;Fronteira;Principal;Crescente;Ativo;-20,124301;-49,105001
+CONCEBRA;Base operacional;2017;BR-262;MG;376,955;Juatuba;Principal;Crescente;Ativo;-19,930301;-44,407801
+CONCEBRA;Base operacional;2017;BR-262;MG;425,304;São Gonçalo do Pará;Principal;Decrescente;Ativo;-19,890401;-44,821701
+CONCEBRA;Base operacional;2017;BR-262;MG;477,619;Bom Despacho;Principal;Crescente;Ativo;-19,786801;-45,244601
+CONCEBRA;Base operacional;2017;BR-262;MG;527,952;Luz;Principal;Decrescente;Ativo;-19,781101;-45,731501
+CONCEBRA;Base operacional;2017;BR-262;MG;579,201;Córrego Danta;Principal;Crescente;Ativo;-19,657301;-46,068401
+CONCEBRA;Base operacional;2017;BR-262;MG;631,579;Ibiá;Principal;Decrescente;Ativo;-19,592401;-46,491801
+CONCEBRA;Base operacional;2017;BR-262;MG;677,501;Araxá;Principal;Crescente;Ativo;-19,553701;-46,880001
+CONCEBRA;Base operacional;2017;BR-262;MG;739,251;Perdizes;Principal;Decrescente;Ativo;-19,615501;-47,370401
+CONCEBRA;Base operacional;2017;BR-262;MG;783,398;Uberaba;Principal;Crescente;Ativo;-19,732501;-47,744801
+CONCEBRA;Base operacional;2017;BR-262;MG;828,739;Uberaba;Principal;Decrescente;Ativo;-19,759601;-48,148701
+CONCEBRA;Base operacional;2017;BR-262;MG;878,609;Campo Florido;Principal;Decrescente;Ativo;-19,760901;-48,593801
+CRO;Base operacional;2016;BR-163;MT;23,500;Itiquira;Principal;Decrescente;Ativo;-17,310012;-54,762395
+CRO;Base operacional;2016;BR-163;MT;73,000;Rondonópolis;Principal;Decrescente;Ativo;-16,872369;-54,712081
+CRO;Base operacional;2016;BR-163;MT;117,100;Rondonópolis;Principal;Decrescente;Ativo;-16,511673;-54,654605
+CRO;Base operacional;2016;BR-364;MT;244,000;Juscimeira;Principal;Decrescente;Ativo;-16,165383;-54,793980
+CRO;Base operacional;2016;BR-364;MT;260,800;Juscimeira;Principal;Crescente;Ativo;-15,905423;-55,077977
+CRO;Base operacional;2016;BR-364;MT;338,600;Campo Verde;Principal;Decrescente;Ativo;-15,831519;-55,502342
+CRO;Base operacional;2016;BR-364;MT;386,800;Cuiabá;Principal;Crescente;Ativo;-15,701298;-55,863576
+CRO;Base operacional;2016;BR-364;MT;435,700;Várzea Grande;Principal;Decrescente;Ativo;-15,641299;-56,202348
+CRO;Base operacional;2016;BR-364;MT;487,900;Jangada;Principal;Crescente;Ativo;-15,276545;-56,442651
+CRO;Base operacional;2016;BR-364;MT;541,800;Rosário Oeste;Principal;Crescente;Ativo;-14,842867;-56,443511
+CRO;Base operacional;2016;BR-364;MT;583,000;Nobres;Principal;Decrescente;Ativo;-14,571595;-56,222866
+CRO;Base operacional;2016;BR-163;MT;546,900;Diamantino;Principal;Crescente;Ativo;-14,247638;-56,131258
+CRO;Base operacional;2016;BR-163;MT;592,300;Nova Mutum;Principal;Crescente;Ativo;-13,871054;-56,087074
+CRO;Base operacional;2016;BR-163;MT;640,700;Nova Mutum;Principal;Crescente;Ativo;-13,462659;-56,074481
+CRO;Base operacional;2016;BR-163;MT;685,350;Lucas do Rio Verde;Principal;Crescente;Ativo;-13,093078;-55,945072
+CRO;Base operacional;2016;BR-163;MT;743,400;Sorriso;Principal;Crescente;Ativo;-12,620351;-55,765536
+CRO;Base operacional;2016;BR-163;MT;784,400;Sorriso;Principal;Crescente;Ativo;-12,303085;-55,573744
+CRO;Base operacional;2016;BR-163;MT;834,900;Sinop;Principal;Decrescente;Ativo;-11,862119;-55,495680
+ECO050;Base operacional;2017;BR-50;GO;117,810;Ipameri;Principal;Crescente;Ativo;-16,919516;-47,696069
+ECO050;Base operacional;2017;BR-50;GO;163,790;Campo Alegre de Goiás;Principal;Decrescente;Ativo;-17,286022;-47,757397
+ECO050;Base operacional;2017;BR-50;GO;204,510;Campo Alegre de Goiás;Principal;Crescente;Ativo;-17,608412;-47,788694
+ECO050;Base operacional;2017;BR-50;GO;266,650;Catalão;Principal;Crescente;Ativo;-18,084280;-47,869696
+ECO050;Base operacional;2017;BR-50;GO;312,300;Cumari;Principal;Decrescente;Ativo;-18,416188;-48,079396
+ECO050;Base operacional;2017;BR-50;MG;43,750;Araguari;Principal;Decrescente;Ativo;-18,704592;-48,190154
+ECO050;Base operacional;2017;BR-50;MG;86,720;Uberlândia;Principal;Decrescente;Ativo;-19,022214;-48,204740
+ECO050;Base operacional;2017;BR-50;MG;138,650;Uberaba;Principal;Decrescente;Ativo;-19,464173;-48,057220
+ECO050;Base operacional;2017;BR-50;MG;173,150;Uberaba;Principal;Crescente;Ativo;-19,762739;-47,977166
+ECO101;Base operacional;2020;BR-101;ES;1,031;Pedro Canário;Principal;Crescente;Ativo;-18,183235;-39,922408
+ECO101;Base operacional;2020;BR-101;ES;45,521;Conceição da Barra;Principal;Crescente;Ativo;-18,519311;-39,912780
+ECO101;Base operacional;2020;BR-101;ES;86,820;São Mateus;Principal;Decrescente;Ativo;-18,865389;-39,939441
+ECO101;Base operacional;2020;BR-101;ES;125,042;Linhares;Principal;Decrescente;Ativo;-19,177521;-40,091531
+ECO101;Posto de Fiscalização da ANTT;2020;BR-101;ES;138,248;Linhares;Principal;Crescente;Ativo;-19,300300;-40,084481
+ECO101;Base operacional;2020;BR-101;ES;171,845;Aracruz;Principal;Crescente;Ativo;-19,564776;-40,178923
+ECO101;Base operacional;2020;BR-101;ES;210,782;Ibiraçu;Principal;Decrescente;Ativo;-19,805748;-40,367627
+ECO101;Base operacional;2020;BR-101;ES;241,535;Serra;Principal;Decrescente;Ativo;-20,030830;-40,397438
+ECO101;Posto de Fiscalização da ANTT;2020;BR-101;ES;251,446;Serra;Principal;Decrescente;Ativo;-20,093384;-40,340620
+ECO101;Base operacional;2020;BR-101;ES;281,219;Serra;Principal;Crescente;Ativo;-20,220869;-40,357099
+ECO101;Posto de Fiscalização da ANTT;2020;BR-101;ES;301,763;Viana;Principal;Decrescente;Ativo;-20,366394;-40,443557
+ECO101;Base operacional;2020;BR-101;ES;320,504;Guarapari;Principal;Decrescente;Ativo;-20,518279;-40,478460
+ECO101;Base operacional;2020;BR-101;ES;359,408;Anchieta;Principal;Crescente;Ativo;-20,701436;-40,716207
+ECO101;Posto de Fiscalização da ANTT;2020;BR-101;ES;392,745;Itapemirim;Principal;Decrescente;Ativo;-20,865959;-40,913554
+ECO101;Base operacional;2020;BR-101;ES;398,750;Itapemirim;Principal;Decrescente;Ativo;-20,877598;-40,964844
+ECO101;Base operacional;2020;BR-101;ES;451,762;Mimoso do Sul;Principal;Decrescente;Ativo;-21,157828;-41,279225
+ECOPONTE;Posto de Fiscalização da ANTT;2017;BR-101;RJ;322,080;Niterói;Principal;Crescente;Ativo;-22,878348;-43,114435
+ECOPONTE;Base operacional;2017;BR-101;RJ;322,160;Niterói;Principal;Crescente;Ativo;-22,877688;-43,114922
+ECORIOMINAS;Base operacional;2021;BR-116;MG;420,830;Alpercata;Principal;Crescente;Ativo;-18,936719;-41,947861
+ECORIOMINAS;Base operacional;2021;BR-116;MG;461,600;Tarumirim;Principal;Crescente;Ativo;-19,249122;-42,059047
+ECORIOMINAS;Base operacional;2021;BR-116;MG;511,130;Ubaporanga;Principal;Decrescente;Ativo;-19,656703;-42,113689
+ECORIOMINAS;Base operacional;2021;BR-116;MG;549,320;Santa Bárbara do Leste;Principal;Crescente;Ativo;-19,970375;-42,136539
+ECORIOMINAS;Base operacional;2021;BR-116;MG;593,320;Manhuaçu;Principal;Crescente;Ativo;-20,287739;-42,146742
+ECORIOMINAS;Base operacional;2021;BR-116;MG;632,850;Divino;Principal;Crescente;Ativo;-20,614661;-42,215678
+ECORIOMINAS;Base operacional;2021;BR-116;MG;676,000;Miradouro;Principal;Decrescente;Ativo;-20,915547;-42,346347
+ECORIOMINAS;Base operacional;2021;BR-116;MG;714,540;Muriaé;Principal;Decrescente;Ativo;-21,203417;-42,388531
+ECORIOMINAS;Base operacional;2021;BR-116;MG;747,930;Leopoldina;Principal;Crescente;Ativo;-21,444475;-42,540061
+ECORIOMINAS;Base operacional;2021;BR-116;MG;797,840;Além Paraíba;Principal;Decrescente;Ativo;-21,746697;-42,729256
+ECORIOMINAS;Base operacional;2021;BR-116;RJ;29,900;Sapucaia;Principal;Crescente;Ativo;-22,070022;-42,796114
+ECORIOMINAS;Base operacional;2021;BR-116;RJ;77,800;Teresópolis;Principal;Decrescente;Ativo;-22,370644;-42,949886
+ECORIOMINAS;Base operacional;2021;BR-116;RJ;109,170;Guapimirim;Principal;Crescente;Ativo;-22,539856;-42,986939
+ECORIOMINAS;Base operacional;2021;BR-116;RJ;172,000;Rio de Janeiro;Principal;Crescente;Ativo;-22,804075;-43,345672
+ECORIOMINAS;Base operacional;2021;BR-116;RJ;211,670;Seropédica;Principal;Crescente;Ativo;-22,717522;-43,704867
+ECORIOMINAS;Base operacional;2021;BR-493;RJ;7,040;Itaboraí;Principal;Crescente;Ativo;-22,721264;-42,951633
+ECORIOMINAS;Base operacional;2021;BR-493;RJ;51,180;Duque de Caxias;Principal;Crescente;Ativo;-22,668331;-43,315733
+ECORIOMINAS;Base operacional;2021;BR-465;RJ;10,720;Seropédica;Principal;Crescente;Ativo;-22,779214;-43,661247
+ECORIOMINAS;Posto de Fiscalização da ANTT;2021;BR-116;RJ;211,670;Seropédica;Principal;Crescente/Decrescente;Ativo;-22,717522;-43,704867
+ECORIOMINAS;Posto de Fiscalização da ANTT;2021;BR-116;MG;432,089;Engenheiro Caldas;Principal;Crescente/Decrescente;Ativo;-19,014944;-41,984150
+ECOSUL;Base operacional;1996;BR-392;RS;52,280;Rio Grande;Principal;Crescente;Ativo;-31,851911;-52,326174
+ECOSUL;Base operacional;1996;BR-392;RS;33,057;Rio Grande;Principal;Decrescente;Ativo;-32,021114;-52,287905
+ECOSUL;Base operacional;1996;BR-392;RS;111,533;Canguçu;Principal;Crescente;Ativo;-31,450097;-52,640399
+ECOSUL;Base operacional;1996;BR-392;RS;125,740;Canguçu;Principal;Crescente;Ativo;-31,358772;-52,728755
+ECOSUL;Base operacional;1996;BR-116;RS;430,380;Cristal;Principal;Decrescente;Ativo;-31,026457;-52,049552
+ECOSUL;Base operacional;1996;BR-116;RS;492,020;Pelotas;Principal;Decrescente;Ativo;-31,489675;-52,213654
+ECOSUL;Base operacional;1996;BR-116;RS;510,180;Pelotas;Principal;Crescente;Ativo;-31,623857;-52,316460
+ECOSUL;Base operacional;1996;BR-116;RS;510,780;Pelotas;Principal;Crescente;Ativo;-31,625286;-52,318110
+ECOSUL;Base operacional;1996;BR-116;RS;524,000;Pelotas;Principal;Decrescente;Ativo;-31,728176;-52,387843
+ECOSUL;Base operacional;1996;BR-116;RS;540,880;Capão do Leão;Principal;Crescente;Ativo;-31,820111;-52,526713
+ECOSUL;Base operacional;1996;BR-116;RS;607,020;Arroio Grande;Principal;Crescente;Ativo;-32,213867;-53,032541
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;423,580;Anápolis;Principal;Decrescente;Ativo;-16,211349;-49,018016
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;381,100;São Francisco de Goiás;Principal;Crescente;Ativo;-15,920713;-49,216234
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;343,000;Jaraguá;Principal;Decrescente;Ativo;-15,624553;-49,387198
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;296,200;Rialma;Principal;Crescente;Ativo;-15,271052;-49,550052
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;257,500;São Luiz do Norte;Principal;Decrescente;Ativo;-14,979535;-49,396328
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;213,550;Uruaçu;Principal;Crescente;Ativo;-14,641654;-49,180789
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;170,980;Campinorte;Principal;Decrescente;Ativo;-14,274811;-49,146237
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;130,300;Mara Rosa;Principal;Crescente;Ativo;-13,915263;-49,066531
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;87,350;Santa Tereza de Goiás;Principal;Decrescente;Ativo;-13,555135;-49,072255
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;47,000;Porangatu;Principal;Crescente;Ativo;-13,228771;-49,146370
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;GO;3,000;Porangatu;Principal;Decrescente;Ativo;-12,861875;-49,105767
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;TO;765,825;Alvorada;Principal;Crescente;Ativo;-12,516678;-49,108423
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;TO;717,700;Cariri do Tocantins;Principal;Decrescente;Ativo;-12,098943;-49,189085
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;TO;677,540;Gurupi;Principal;Crescente;Ativo;-11,764870;-49,100184
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-153;TO;637,650;Aliança do Tocantins;Principal;Decrescente;Ativo;-11,425634;-48,983708
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-414;GO;409,370;Abadiânia;Principal;Decrescente;Ativo;-15,256736;-48,687387
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-414;GO;360,240;Cocalzinho de Goiás;Principal;Crescente;Ativo;-15,698075;-48,698235
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-414;GO;305,500;Vila Propício;Principal;Decrescente;Ativo;-15,256736;-48,687387
+ECOVIAS DO ARAGUAIA;Base operacional;2021;BR-80;GO;142,070;Barro Alto;Principal;Decrescente;Ativo;-14,903769;-48,962462
+ECOVIAS DO CERRADO;Base operacional;2020;BR-365;MG;652,120;Uberlândia;Principal;Decrescente;Ativo;-18,866099;-48,576684
+ECOVIAS DO CERRADO;Base operacional;2020;BR-365;MG;698,510;Monte Alegre de Minas;Principal;Crescente;Ativo;-18,879225;-48,982317
+ECOVIAS DO CERRADO;Base operacional;2020;BR-365;MG;747,540;Ituiutaba;Principal;Decrescente;Ativo;-18,936474;-49,432826
+ECOVIAS DO CERRADO;Base operacional;2020;BR-365;MG;796,330;Gurinhatã;Principal;Crescente;Ativo;-18,917976;-49,874556
+ECOVIAS DO CERRADO;Base operacional;2020;BR-365;MG;845,550;Santa Vitória;Principal;Decrescente;Ativo;-18,979000;-50,296106
+ECOVIAS DO CERRADO;Base operacional;2020;BR-364;GO;20,730;São Simão;Principal;Crescente;Ativo;-18,925008;-50,654360
+ECOVIAS DO CERRADO;Base operacional;2020;BR-364;GO;69,600;Cachoeira Alta;Principal;Decrescente;Ativo;-18,658326;-50,997332
+ECOVIAS DO CERRADO;Base operacional;2020;BR-364;GO;116,430;Aparecida do Rio Doce;Principal;Crescente;Ativo;-18,288863;-51,171874
+ECOVIAS DO CERRADO;Base operacional;2020;BR-364;GO;168,280;Jataí;Principal;Decrescente;Ativo;-18,032441;-51,551623
+LITORAL PIONEIRO;Base operacional;2019;BR-369;PR;79,200;Santa Mariana;Principal;Crescente;Ativo;-23,145290;-50,575660
+LITORAL PIONEIRO;Base operacional;2019;BR-369;PR;10,200;Cambará;Principal;Decrescente;Ativo;-23,002580;-49,992490
+LITORAL PIONEIRO;Base operacional;2019;BR-153;PR;31,600;Santo Antônio da Platina;Principal;Crescente;Ativo;-23,226220;-50,027380
+LITORAL PIONEIRO;Base operacional;2019;151;PR;176,490;Sengés;Principal;Crescente;Ativo;-24,112930;-49,471500
+LITORAL PIONEIRO;Base operacional;2019;151;PR;252,100;Piraí do Sul;Principal;Crescente;Ativo;-24,502630;-49,903690
+LITORAL PIONEIRO;Base operacional;2019;151;PR;304,500;Carambeí;Principal;Decrescente;Ativo;-24,914470;-50,088780
+LITORAL PIONEIRO;Base operacional;2019;BR-277;PR;61,100;São José dos Pinhais;Principal;Crescente;Ativo;-25,548730;-49,044100
+LITORAL PIONEIRO;Base operacional;2019;BR-277;PR;35,000;Morretes;Principal;Decrescente;Ativo;-25,573740;-48,826540
+LITORAL PIONEIRO;Base operacional;2019;BR-277;PR;10,800;Paranaguá;Principal;Decrescente;Ativo;-25,566620;-48,622080
+MSVIA;Base operacional;2014;BR-163;MS;27,668;Mundo Novo;Principal;Crescente;Ativo;-23,869276;-54,326924
+MSVIA;Base operacional;2014;BR-163;MS;81,035;Itaquiraí;Principal;Decrescente;Ativo;-23,450050;-54,199555
+MSVIA;Base operacional;2014;BR-163;MS;128,677;Naviraí;Principal;Decrescente;Ativo;-23,047236;-54,249500
+MSVIA;Base operacional;2014;BR-163;MS;179,634;Juti;Principal;Crescente;Ativo;-22,836237;-54,676457
+MSVIA;Base operacional;2014;BR-163;MS;224,436;Caarapó;Principal;Decrescente;Ativo;-22,505295;-54,864179
+MSVIA;Base operacional;2014;BR-163;MS;285,285;Douradina;Principal;Decrescente;Ativo;-22,104786;-54,581731
+MSVIA;Base operacional;2014;BR-163;MS;331,860;Rio Brilhante;Principal;Decrescente;Ativo;-21,708466;-54,503766
+MSVIA;Base operacional;2014;BR-163;MS;381,444;Nova Alvorada do Sul;Principal;Decrescente;Ativo;-21,327196;-54,422578
+MSVIA;Base operacional;2014;BR-163;MS;426,457;Campo Grande;Principal;Crescente;Ativo;-20,933313;-54,499052
+MSVIA;Base operacional;2014;BR-163;MS;478,693;Campo Grande;Principal;Crescente;Ativo;-20,490681;-54,558984
+MSVIA;Base operacional;2014;BR-163;MS;534,653;Jaraguari;Principal;Decrescente;Ativo;-20,033894;-54,409806
+MSVIA;Base operacional;2014;BR-163;MS;578,062;Bandeirantes;Principal;Crescente;Ativo;-19,656960;-54,354195
+MSVIA;Base operacional;2014;BR-163;MS;629,122;São Gabriel do Oeste;Principal;Crescente;Ativo;-19,287470;-54,641179
+MSVIA;Base operacional;2014;BR-163;MS;679,065;Rio Verde de Mato Grosso;Principal;Crescente;Ativo;-18,927479;-54,833363
+MSVIA;Base operacional;2014;BR-163;MS;740,784;Coxim;Principal;Decrescente;Ativo;-18,418536;-54,688850
+MSVIA;Base operacional;2014;BR-163;MS;778,444;Coxim;Principal;Decrescente;Ativo;-18,104740;-54,697230
+MSVIA;Base operacional;2014;BR-163;MS;822,231;Sonora;Principal;Crescente;Ativo;-17,727805;-54,756496
+RIOSP;Base operacional;2000;BR-101;SP;9,250;Ubatuba;Principal;Decrescente;Ativo;-23,358560;-44,836510
+RIOSP;Base operacional;2000;BR-101;SP;31,300;Ubatuba;Principal;Decrescente;Ativo;-23,387030;-44,979310
+RIOSP;Base operacional;2000;BR-101;RJ;392,000;Rio de Janeiro;Principal;Crescente;Ativo;-22,890610;-43,699130
+RIOSP;Base operacional;2000;BR-101;RJ;471,450;Angra dos Reis;Principal;Decrescente;Ativo;-23,029880;-44,129200
+RIOSP;Base operacional;2000;BR-101;RJ;497,500;Angra dos Reis;Principal;Crescente;Ativo;-22,916450;-44,329260
+RIOSP;Base operacional;2000;BR-101;RJ;524,300;Angra dos Reis;Principal;Crescente;Ativo;-23,004090;-44,481010
+RIOSP;Base operacional;2000;BR-101;RJ;550,300;Paraty;Principal;Crescente;Ativo;-23,047510;-44,668270
+RIOSP;Base operacional;2000;BR-101;RJ;576,500;Paraty;Principal;Decrescente;Ativo;-23,229290;-44,722870
+RIOSP;Base operacional;2000;BR-116;SP;231,009;São Paulo;Principal;Crescente;Ativo;-23,518000;-46,582110
+RIOSP;Base operacional;2000;BR-116;SP;201,870;Arujá;Principal;Decrescente;Ativo;-23,408000;-46,338195
+RIOSP;Base operacional;2000;BR-116;SP;156,000;São José dos Campos;Principal;Crescente;Ativo;-23,249050;-45,935000
+RIOSP;Base operacional;2000;BR-116;SP;99,000;Pindamonhangaba;Principal;Crescente;Ativo;-22,980136;-45,462218
+RIOSP;Base operacional;2000;BR-116;SP;51,200;Lorena;Principal;Decrescente;Ativo;-22,742879;-45,093490
+RIOSP;Base operacional;2000;BR-116;SP;18,400;Lavrinhas;Principal;Decrescente;Ativo;-22,560551;-44,859936
+RIOSP;Base operacional;2000;BR-116;RJ;316,641;Itatiaia;Principal;Crescente;Ativo;-22,466519;-44,498167
+RIOSP;Base operacional;2000;BR-116;RJ;263,984;Barra Mansa;Principal;Crescente;Ativo;-22,589182;-44,081856
+RIOSP;Base operacional;2000;BR-116;RJ;233,532;Piraí;Principal;Decrescente;Ativo;-22,667171;-43,843035
+RIOSP;Base operacional;2000;BR-116;RJ;211,804;Itaguaí;Principal;Crescente;Ativo;-22,717344;-43,704867
+RODOVIA DO AÇO;Posto de Fiscalização da ANTT;2016;BR-393;RJ;194,700;Paraíba do Sul;Principal;Crescente;Ativo;-22,207259;-43,379107
+RODOVIA DO AÇO;Base operacional;2016;BR-393;RJ;126,000;Sapucaia;Principal;Decrescente;Ativo;-21,961952;-42,860696
+RODOVIA DO AÇO;Base operacional;2016;BR-393;RJ;159,000;Três Rios;Principal;Decrescente;Ativo;-22,106509;-43,100763
+RODOVIA DO AÇO;Base operacional;2016;BR-393;RJ;194,600;Paraíba do Sul;Principal;Crescente;Ativo;-22,206654;-43,377918
+RODOVIA DO AÇO;Base operacional;2016;BR-393;RJ;230,000;Vassouras;Principal;Crescente;Ativo;-22,382892;-43,641687
+RODOVIA DO AÇO;Base operacional;2016;BR-393;RJ;268,000;Barra do Piraí;Principal;Crescente;Ativo;-22,476008;-43,941073
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;23,700;Nova Granada;Principal;Crescente;Ativo;-20,489373;-49,309011
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;71,800;São José do Rio Preto;Principal;Decrescente;Ativo;-20,870260;-49,415076
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;122,500;Ubarana;Principal;Crescente;Ativo;-21,189058;-49,724840
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;173,700;Guaiçara;Principal;Decrescente;Ativo;-21,626892;-49,787239
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;217,500;Marília;Principal;Crescente;Ativo;-21,972427;-49,919102
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;278,300;Ocauçu;Principal;Crescente;Ativo;-22,403037;-49,862185
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;322,700;Salto Grande;Principal;Decrescente;Ativo;-22,789765;-49,889473
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;35,800;Onda Verde;Principal;Crescente/Decrescente;Ativo;-20,589682;-49,318063
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;98,900;José Bonifácio;Principal;Crescente/Decrescente;Ativo;-20,997659;-49,628020
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;183,800;Lins;Principal;Crescente/Decrescente;Ativo;-21,711179;-49,808386
+TRANSBRASILIANA;Base operacional;2015;BR-153;SP;268,100;Vera Cruz;Principal;Crescente/Decrescente;Ativo;-22,336331;-49,898904
+TRANSBRASILIANA;Posto de Fiscalização da ANTT;2015;BR-153;SP;183,800;Lins;Principal;Decrescente;Ativo;-21,712136;-49,809086
+VIA 040;Base operacional;2010;BR-40;GO;0,523;Valparaíso de Goiás;Principal;Crescente;Ativo;-16,057701;-47,982920
+VIA 040;Base operacional;2010;BR-40;GO;51,475;Luziânia;Principal;Crescente;Ativo;-16,455091;-47,807820
+VIA 040;Base operacional;2010;BR-40;GO;96,061;Cristalina;Principal;Decrescente;Ativo;-16,758608;-47,600580
+VIA 040;Base operacional;2010;BR-40;GO;148,625;Cristalina;Principal;Decrescente;Ativo;-17,007140;-47,222830
+VIA 040;Base operacional;2010;BR-40;MG;43,102;Paracatu;Principal;Decrescente;Ativo;-17,226352;-46,860840
+VIA 040;Base operacional;2010;BR-40;MG;86,517;Paracatu;Principal;Crescente;Ativo;-17,489590;-46,605960
+VIA 040;Base operacional;2010;BR-40;MG;130,565;João Pinheiro;Principal;Decrescente;Ativo;-17,707360;-46,279790
+VIA 040;Base operacional;2010;BR-40;MG;173,334;João Pinheiro;Principal;Decrescente;Ativo;-17,945890;-46,031300
+VIA 040;Base operacional;2010;BR-40;MG;223,564;João Pinheiro;Principal;Crescente;Ativo;-17,978120;-45,619970
+VIA 040;Base operacional;2010;BR-40;MG;271,902;Três Marias;Principal;Crescente;Ativo;-18,185280;-45,260790
+VIA 040;Base operacional;2010;BR-40;MG;314,947;Três Marias;Principal;Crescente;Ativo;-18,473840;-45,061160
+VIA 040;Base operacional;2010;BR-40;MG;362,015;Felixlândia;Principal;Decrescente;Ativo;-18,764390;-44,837700
+VIA 040;Base operacional;2010;BR-40;MG;405,016;Curvelo;Principal;Crescente;Ativo;-19,076410;-44,654930
+VIA 040;Base operacional;2010;BR-40;MG;448,000;Caetanópolis;Principal;Crescente;Ativo;-19,300732;-44,378767
+VIA 040;Base operacional;2010;BR-40;MG;488,240;Capim Branco;Principal;Decrescente;Ativo;-19,608480;-44,218630
+VIA 040;Base operacional;2010;BR-40;MG;525,183;Contagem;Principal;Crescente;Ativo;-19,885710;-44,050660
+VIA 040;Base operacional;2010;BR-40;MG;569,163;Nova Lima;Principal;Decrescente;Ativo;-20,204820;-43,973840
+VIA 040;Base operacional;2010;BR-40;MG;610,150;Congonhas;Principal;Decrescente;Ativo;-20,503800;-43,838620
+VIA 040;Base operacional;2010;BR-40;MG;660,460;Carandaí;Principal;Crescente;Ativo;-20,902530;-43,827780
+VIA 040;Base operacional;2010;BR-40;MG;709,880;Barbacena;Principal;Crescente;Ativo;-21,242470;-43,692550
+VIA 040;Base operacional;2010;BR-40;MG;747,700;Santos Dumont;Principal;Decrescente;Ativo;-21,478540;-43,545070
+VIA ARAUCÁRIA;Base operacional;2019;BR-277;PR;114,800;Campo Largo;Principal;Crescente;Ativo;-25,443829;-49,503171
+VIA ARAUCÁRIA;Base operacional;2019;BR-277;PR;158,500;Porto Amazonas;Principal;Crescente;Ativo;-25,468350;-49,903508
+VIA ARAUCÁRIA;Base operacional;2019;BR-277;PR;158,600;Porto Amazonas;Principal;Decrescente;Ativo;-25,468432;-49,904381
+VIA ARAUCÁRIA;Base operacional;2019;BR-277;PR;206,000;Palmeira;Principal;Decrescente;Ativo;-25,462888;-50,330500
+VIA ARAUCÁRIA;Base operacional;2019;BR-277;PR;249,500;Irati;Principal;Crescente;Ativo;-25,437615;-50,715250
+VIA ARAUCÁRIA;Base operacional;2019;BR-277;PR;249,700;Irati;Principal;Decrescente;Ativo;-25,435905;-50,716764
+VIA ARAUCÁRIA;Base operacional;2019;BR-277;PR;295,900;Prudentópolis;Principal;Crescente;Ativo;-25,301714;-51,113105
+VIA ARAUCÁRIA;Base operacional;2019;BR-373;PR;216,900;Imbituva;Principal;Decrescente;Ativo;-25,157317;-50,543173
+VIA ARAUCÁRIA;Base operacional;2019;BR-373;PR;217,000;Imbituva;Principal;Crescente;Ativo;-25,157203;-50,544382
+VIA ARAUCÁRIA;Base operacional;2019;BR-373;PR;241,750;Guamiranga;Principal;Decrescente;Ativo;-25,197773;-50,762860
+VIA ARAUCÁRIA;Base operacional;2019;BR-476;PR;191,400;Lapa;Principal;Crescente;Ativo;-25,725357;-49,700033
+VIA ARAUCÁRIA;Base operacional;2019;BR-476;PR;158,100;Araucária;Principal;Decrescente;Ativo;-25,609021;-49,422214
+VIA BAHIA;Base operacional;2003;BR-324;BA;607,400;Simões Filho;Principal;Crescente;Ativo;-12,824926;-38,409794
+VIA BAHIA;Base operacional;2003;BR-324;BA;562,770;São Sebastião do Passé;Principal;Decrescente;Ativo;-12,513657;-38,624334
+VIA BAHIA;Posto de Fiscalização da ANTT;2003;BR-324;BA;551,224;Amélia Rodrigues;Principal;Decrescente;Ativo;-12,451880;-38,707090
+VIA BAHIA;Base operacional;2003;BR-324;BA;531,000;Feira de Santana;Principal;Decrescente;Ativo;-12,343672;-38,840728
+VIA BAHIA;Base operacional;2003;BR-116;BA;462,450;Santo Estêvão;Principal;Crescente;Ativo;-12,451685;-39,253494
+VIA BAHIA;Base operacional;2003;BR-116;BA;501,655;Santa Terezinha;Principal;Decrescente;Ativo;-12,614463;-39,571361
+VIA BAHIA;Base operacional;2003;BR-116;BA;543,406;Itatim;Principal;Crescente;Ativo;-12,851129;-39,843989
+VIA BAHIA;Base operacional;2003;BR-116;BA;589,778;Nova Itarana;Principal;Crescente;Ativo;-13,162359;-39,999605
+VIA BAHIA;Base operacional;2003;BR-116;BA;628,902;Jaguaquara;Principal;Decrescente;Ativo;-13,485962;-40,044423
+VIA BAHIA;Base operacional;2003;BR-116;BA;666,509;Jequié;Principal;Decrescente;Ativo;-13,807476;-40,111868
+VIA BAHIA;Base operacional;2003;BR-116;BA;713,003;Manoel Vitorino;Principal;Crescente;Ativo;-14,175065;-40,259403
+VIA BAHIA;Base operacional;2003;BR-116;BA;760,636;Poções;Principal;Decrescente;Ativo;-14,545199;-40,397465
+VIA BAHIA;Base operacional;2003;BR-116;BA;802,689;Vitória da Conquista;Principal;Crescente;Ativo;-14,758269;-40,693848
+VIA BAHIA;Base operacional;2003;BR-116;BA;840,048;Vitória da Conquista;Principal;Decrescente;Ativo;-14,987228;-40,925235
+VIA BAHIA;Base operacional;2003;BR-116;BA;873,499;Vitória da Conquista;Principal;Decrescente;Ativo;-15,233075;-41,101000
+VIA BAHIA;Base operacional;2003;BR-116;BA;917,128;Encruzilhada;Principal;Decrescente;Ativo;-15,569981;-41,269867
+VIA BRASIL;Base operacional;2021;BR-163;MT;896,100;Cláudia;Principal;Decrescente;Ativo;-11,347128;-55,333225
+VIA BRASIL;Base operacional;2021;BR-163;PA;0,600;Novo Progresso;Principal;Decrescente;Ativo;-9,564575;-54,874915
+VIA BRASIL;Base operacional;2021;BR-163;PA;292,800;Novo Progresso;Principal;Crescente;Ativo;-7,190094;-55,364006
+VIA BRASIL;Base operacional;2021;BR-163;PA;605,500;Itaituba;Principal;Crescente;Ativo;-4,803662;-56,121254
+VIA COSTEIRA;Base operacional;2020;BR-101;SC;257,000;Paulo Lopes;Principal;Crescente;Ativo;-27,998852;-48,691686
+VIA COSTEIRA;Base operacional;2020;BR-101;SC;268,000;Imbituba;Principal;Crescente;Ativo;-28,087422;-48,710860
+VIA COSTEIRA;Base operacional;2020;BR-101;SC;306,000;Laguna;Principal;Decrescente;Ativo;-28,401391;-48,786754
+VIA COSTEIRA;Base operacional;2020;BR-101;SC;336,600;Tubarão;Principal;Crescente;Ativo;-28,486375;-49,038131
+VIA COSTEIRA;Base operacional;2020;BR-101;SC;354,600;Jaguaruna;Principal;Crescente;Ativo;-28,627067;-49,083925
+VIA COSTEIRA;Base operacional;2020;BR-101;SC;404,600;Maracajá;Principal;Crescente;Ativo;-28,898313;-49,474061
+VIA COSTEIRA;Base operacional;2020;BR-101;SC;447,500;Santa Rosa do Sul;Principal;Decrescente;Ativo;-29,161489;-49,738495
+VIA SUL;Base operacional;2019;BR-101;RS;16,000;Dom Pedro de Alcântara;Principal;Decrescente;Ativo;-29,411900;-49,858300
+VIA SUL;Base operacional;2019;BR-101;RS;35,000;Três Cachoeiras;Principal;Decrescente;Ativo;-29,519300;-49,994600
+VIA SUL;Base operacional;2019;BR-101;RS;50,000;Terra de Areia;Principal;Decrescente;Ativo;-29,608800;-50,086900
+VIA SUL;Base operacional;2019;BR-101;RS;67,300;Maquiné;Principal;Decrescente;Ativo;-29,722700;-50,197000
+VIA SUL;Base operacional;2019;BR-290;RS;24,000;Santo Antônio da Patrulha;Principal;Decrescente;Ativo;-29,882100;-50,494600
+VIA SUL;Base operacional;2019;BR-290;RS;60,000;Gravataí;Principal;Crescente;Ativo;-29,924600;-50,858900
+VIA SUL;Base operacional;2019;BR-290;RS;77,100;Gravataí;Principal;Decrescente;Ativo;-29,955100;-51,027100
+VIA SUL;Base operacional;2019;BR-386;RS;431,000;Nova Santa Rita;Principal;Crescente;Ativo;-29,833900;-51,312400
+VIA SUL;Base operacional;2019;BR-386;RS;397,000;Triunfo;Principal;Crescente;Ativo;-29,738300;-51,625300
+VIA SUL;Base operacional;2019;BR-386;RS;373,000;Fazenda Vilanova;Principal;Crescente;Ativo;-29,613000;-51,802200
+VIA SUL;Base operacional;2019;BR-386;RS;329,000;Marques de Souza;Principal;Decrescente;Ativo;-29,340100;-52,078200
+VIA SUL;Base operacional;2019;BR-386;RS;304,000;Pouso Novo;Principal;Decrescente;Ativo;-29,182600;-52,192600
+VIA SUL;Base operacional;2019;BR-386;RS;270,000;Fontoura Xavier;Principal;Crescente;Ativo;-28,972500;-52,369100
+VIA SUL;Base operacional;2019;BR-386;RS;262,000;Fontoura Xavier;Principal;Decrescente;Ativo;-28,906700;-52,395600
