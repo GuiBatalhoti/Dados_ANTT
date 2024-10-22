@@ -1,0 +1,47 @@
+concessionaria;nome_do_ppv;ano_do_pnv_snv;rodovia;uf;km_m;municipio;tipo_pista;sentido;situacao;data_da_inativacao;latitude;longitude
+AUTOPISTA FERNÃO DIAS;PPV 0616;2007;BR-381;MG;690,500;Lavras;Principal;Crescente;Ativo;;-21,206340;-45,122721
+AUTOPISTA FERNÃO DIAS;PPV 0614;2007;BR-381;MG;844,500;São Sebastião da Bela Vista;Principal;Decrescente;Ativo;;-22,199667;-45,854967
+AUTOPISTA FLUMINENSE;PPV Campos dos Goytacazes;2019;BR-101;RJ;97,400;Campos dos Goytacazes;Principal;Decrescente;Ativo;;-21,872777;-41,567777
+AUTOPISTA FLUMINENSE;PPV Tanguá;2019;BR-101;RJ;272,200;Tanguá;Principal;Crescente;Ativo;;-22,730084;-42,705881
+AUTOPISTA LITORAL SUL;PPV Garuva;2009;BR-101;SC;14,300;Garuva;Principal;Decrescente;Ativo;;-26,100612;-48,868377
+AUTOPISTA LITORAL SUL;PPV Itapema;2009;BR-101;SC;151,050;Itapema;Principal;Crescente;Ativo;;-27,126239;-48,610061
+AUTOPISTA PLANALTO SUL;Fazenda Rio Grande;2017;BR-116;PR;129,900;Fazenda Rio Grande;Principal;Crescente;Ativo;;-25,674166;-49,315555
+AUTOPISTA PLANALTO SUL;Campo do Tenente;2017;BR-116;PR;193,100;Campo do Tenente;Principal;Decrescente;Ativo;;-26,009166;-49,671111
+AUTOPISTA REGIS BITTENCOURT;PPV1 - Itapecerica da Serra/SP;2017;BR-116;SP;296,200;Itapecerica da Serra;Principal;Crescente;Ativo;;-23,767120;-46,909160
+AUTOPISTA REGIS BITTENCOURT;PPV2 - Miracatu/SP;2017;BR-116;SP;387,600;Miracatu;Principal;Decrescente;Ativo;;-24,268391;-47,395304
+CONCEBRA;PPV04;2017;BR-153;MG;175,500;Comendador Gomes;Principal;Decrescente;Ativo;;-19,547400;-46,844501
+CONCEBRA;PPV08;2017;BR-262;MG;673,400;Ibiá;Principal;Decrescente;Ativo;;-19,757999;-48,966900
+CRO;PPV 01;2016;BR-163;MT;108,500;Rondonópolis;Principal;Decrescente;Ativo;;-16,580833;-54,687777
+CRT;PPV nº1;2017;BR-116;RJ;7,000;Sapucaia;Principal;Crescente;Ativo;;-21,925277;-42,702500
+CRT;PPV nº4;2017;BR-116;RJ;71,000;Teresópolis;Principal;Crescente;Ativo;;-22,349166;-42,940000
+CRT;PPV nº3;2017;BR-116;RJ;131,000;Magé;Principal;Crescente;Ativo;;-22,650555;-43,166944
+CRT;PPV nº2;2017;BR-116;RJ;127,000;Magé;Principal;Decrescente;Ativo;;-22,657617;-43,131205
+ECO050;PPV 01;2017;BR-50;GO;127,600;Ipameri;Principal;Crescente;Ativo;;-16,986944;-47,749722
+ECO050;PPV 02;2017;BR-50;GO;136,500;Ipameri;Principal;Decrescente;Ativo;;-17,061047;-47,745895
+ECO050;PPV 03;2017;BR-50;MG;84,900;Uberlândia;Principal;Crescente;Ativo;;-19,006111;-48,209444
+ECO050;PPV 04;2017;BR-50;MG;161,800;Uberaba;Principal;Decrescente;Ativo;;-19,665000;-48,000000
+ECO101;PPV 1;2020;BR-101;ES;138,248;Linhares;Principal;Crescente;Ativo;;-19,300300;-40,084481
+ECO101;PPV 2;2020;BR-101;ES;251,446;Serra;Principal;Crescente;Ativo;;-20,093384;-40,340620
+ECO101;PPV 4;2020;BR-101;ES;392,745;Itapemirim;Principal;Decrescente;Ativo;;-20,865959;-40,913554
+ECOSUL;PPV Retiro;1996;BR-116;RS;509,780;Pelotas;Principal;Decrescente;Ativo;;-31,618577;-52,310594
+ECOSUL;PPV Capão Seco;1996;BR-392;RS;47,850;Rio Grande;Principal;Decrescente;Ativo;;-31,890955;-52,319736
+MSVIA;Balança Rio Brilhante Norte;2014;BR-163;MS;734,300;Coxim;Principal;Crescente;Ativo;;-18,471111;-54,716944
+MSVIA;Balança Coxim Sul;2014;BR-163;MS;734,900;Coxim;Principal;Decrescente;Ativo;;-18,465277;-54,714166
+MSVIA;Balança Coxim Norte;2014;BR-163;MS;323,700;Rio Brilhante;Principal;Crescente;Ativo;;-21,778611;-54,526388
+RIOSP;PPV - Guararema;2000;BR-116;SP;179,399;Guararema;Principal;Crescente;Ativo;;-23,332222;-46,138055
+RIOSP;PPV - Queluz;2000;BR-116;SP;1,000;Queluz;Principal;Decrescente;Ativo;;-22,517777;-44,706388
+RIOSP;PPV - Resende;2000;BR-116;RJ;307,442;Resende;Principal;Crescente;Ativo;;-22,456666;-44,410277
+RIOSP;PPV - Paracambi;2000;BR-116;RJ;223,310;Paracambi;Principal;Crescente;Ativo;;-22,688055;-43,806111
+RODOVIA DO AÇO;Km 137 (Sapucaia);2016;BR-393;RJ;137,200;Sapucaia;Principal;Decrescente;Ativo;;-22,014962;-42,954965
+VIA 040;PGF JOÃO PINHEIRO;2010;BR-40;MG;146,770;João Pinheiro;Principal;Crescente;Ativo;;-17,766153;-46,149564
+VIA 040;PGF RIBEIRAO DAS NEVES;2010;BR-40;MG;508,000;Ribeirão das Neves;Principal;Decrescente;Ativo;;-19,759872;-44,135308
+VIA 040;PGF CARANDAI;2010;BR-40;MG;664,000;Carandaí;Principal;Crescente;Ativo;;-20,934586;-43,816792
+VIA BAHIA;PPVAR 01;2003;BR-324;BA;594,456;Candeias;Principal;Crescente;Ativo;;-12,722403;-38,450960
+VIA BAHIA;PPVAR 02;2003;BR-116;BA;836,000;Vitória da Conquista;Principal;Crescente;Ativo;;-14,954938;-40,902718
+VIA BAHIA;PPVAR 03;2003;BR-116;BA;489,300;Feira de Santana;Principal;Crescente;Ativo;;-12,560893;-39,473680
+VIA BAHIA;PPVAR 04;2003;BR-116;BA;836,000;Vitória da Conquista;Principal;Decrescente;Ativo;;-14,957579;-40,903466
+VIA COSTEIRA;PPV - Araranguá;2020;BR-101;SC;417,450;Araranguá;Principal;Crescente;Ativo;;-28,981763;-49,538927
+VIA SUL;PPV - Terra de Areia I;2019;BR-101;RS;41,500;Terra de Areia;Principal;Crescente;Ativo;;-29,547639;-50,032000
+VIA SUL;PPV - Terra de Areia II;2019;BR-101;RS;49,800;Terra de Areia;Principal;Decrescente;Ativo;;-29,609639;-50,087000
+VIA SUL;PPV - Triunfo III;2019;BR-386;RS;407,800;Triunfo;Principal;Decrescente;Ativo;;-29,792028;-51,534000
+VIA SUL;PPV - Fontoura Xavier IV;2019;BR-386;RS;262,400;Fontoura Xavier;Principal;Crescente;Ativo;;-28,917722;-52,386000
