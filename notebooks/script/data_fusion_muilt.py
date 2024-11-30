@@ -14,7 +14,7 @@ import pandas as pd
 import multiprocessing as mp
 
 
-def data_fusion(acidentes_input, estacoes_proximas_input):
+def data_fusion(acidentes_input, estacoes_proximas_input) -> pd.DataFrame:
     # Cria uma cópia dos GeoDataFrames de entrada para evitar modificar os originais
     acidentes_gdf = acidentes_input.copy()
     estacoes_proximas_gdf = estacoes_proximas_input.copy()
@@ -49,7 +49,8 @@ rodovias = acidentes_gdf['rodovia'].unique()
 acidentes_por_rodovia_gdf = [acidentes_gdf[acidentes_gdf['rodovia'] == rodovia] for rodovia in rodovias]
 
 def data_fusion_parallel(acidentes_input, estacoes_proximas_input):
-    pool = mp.Pool(mp.cpu_count())
+    num_rodovias = len(acidentes_input)  # Número de rodovias
+    pool = mp.Pool(num_rodovias)  # Define o número de threads igual ao número de rodovias
     results = [pool.apply(data_fusion, args=(acidentes, estacoes_proximas_input)) for acidentes in acidentes_input]
     pool.close()
     pool.join()
@@ -63,4 +64,6 @@ end_time = time.time()
 #salvar tempo de execução em arquivo
 with open("br101_acidentes_fusionados_multi_time.txt", "w") as file:
     file.write(str(end_time - start_time))
+
+
 acidentes_fusionados.to_csv("br101_acidentes_fusionados_multi.csv", index=False)
